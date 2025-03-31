@@ -1,0 +1,13 @@
+#sidebar a.active {
+    color: red;
+}
+.navbar-start{
+    padding-left:2rem;
+}
+a{
+    margin-right:1.5rem;
+}
+.bg-base-100{
+    background-color:#2e2e2e;
+}
+
